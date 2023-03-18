@@ -1,2 +1,1 @@
-GitHub Pages:
-https://basicallyempty.github.io/nochlezhka/
+## [DEMO](https://basicallyempty.github.io/nochlezhka/)
